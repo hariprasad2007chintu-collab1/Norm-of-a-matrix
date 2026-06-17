@@ -15,8 +15,8 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 
 '''
  find the 1-Norm of a matrix and display the results in two decimal places.
- developed by:THARUN N
- register number:212225240173
+ developed by:Hariprasad A
+ register number:212225240048
 '''
 
 matrix = eval(input())
