@@ -38,8 +38,8 @@ print(f"{one_norm:.2f}")
 # 2-Norm of a Matrix
 '''
 Program to find 2-norm of a matrix.
-Developed by: THARUN N
-RegisterNumber: 212225240173
+Developed by: Hariprasad A
+RegisterNumber: 212225240048
 '''
 import os
 os.environ["OPENBLAS_NUM_THREADS"]="1"
