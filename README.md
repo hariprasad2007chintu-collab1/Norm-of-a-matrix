@@ -58,8 +58,8 @@ print(f"{l2_norm:.2f}")
 
 '''
 program to find the Infinity of a matrix and display the result in two decimal places.
-Developed by:THARUN N
-Register number:212225240173
+Developed by:Hariprasad A
+Register number:212225240048
 '''
 # Find the Infinity Norm of a matrix
 
